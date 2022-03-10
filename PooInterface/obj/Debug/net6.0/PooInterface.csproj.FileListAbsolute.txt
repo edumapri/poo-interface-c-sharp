@@ -1,0 +1,15 @@
+C:\COD\PooInterface\PooInterface\bin\Debug\net6.0\PooInterface.exe
+C:\COD\PooInterface\PooInterface\bin\Debug\net6.0\PooInterface.deps.json
+C:\COD\PooInterface\PooInterface\bin\Debug\net6.0\PooInterface.runtimeconfig.json
+C:\COD\PooInterface\PooInterface\bin\Debug\net6.0\PooInterface.dll
+C:\COD\PooInterface\PooInterface\bin\Debug\net6.0\PooInterface.pdb
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.csproj.AssemblyReference.cache
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.AssemblyInfoInputs.cache
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.AssemblyInfo.cs
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.csproj.CoreCompileInputs.cache
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.dll
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\refint\PooInterface.dll
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.pdb
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\PooInterface.genruntimeconfig.cache
+C:\COD\PooInterface\PooInterface\obj\Debug\net6.0\ref\PooInterface.dll
